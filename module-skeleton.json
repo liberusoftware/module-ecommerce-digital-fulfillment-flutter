@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-digital-fulfillment-flutter",
+  "capabilityKey": "planned:ecommerce:digital-fulfillment",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_digital_fulfillment_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/digital-fulfillment.md",
+  "presentationPlan": "projects/ecommerce/flutter/digital-fulfillment.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
